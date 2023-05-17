@@ -81,7 +81,7 @@ The following Spring Boot properties are available to you:
 Use the included `docker-compose.yml` file to startup a `rabbitmq` instance.
 
 ```bash
-> docker-compose -f ./.devconcontainer/docker-compose.yml up -d
+> docker-compose -f ./.devcontainer/docker-compose.yml up -d
 ```
 
 Alternatively if you have the [Remote Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
